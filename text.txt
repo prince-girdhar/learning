@@ -1,9 +1,4 @@
-hello this is my first git hub 
-file upload
-and i want to mark it as text.txt file for 
-further references
-
-
+here is a change that was being done by my co developer
 
 
 
